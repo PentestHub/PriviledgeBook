@@ -47,7 +47,7 @@ query user
 
 
 
-![queryuser.png](C:\Users\Administrator\Desktop\提权秘籍\提权文档\提权端口方面的开启以及常用的命令\pic\queryuser.png)
+ ![alt text](.\pic\queryuser.png)
 
 
 
@@ -183,7 +183,9 @@ tasklist /svc
 ```
 
 
-![tasklistsvc.png](C:\Users\Administrator\Desktop\提权秘籍\提权文档\提权端口方面的开启以及常用的命令\pic\tasklistsvc.png)
+
+ ![alt text](.\pic\tasklistsvc.png)
+
 
 
 ```
@@ -197,7 +199,7 @@ tcp   PID：640所对应的端口为3389
 ```
 
 
-![netstat-ano.png](C:\Users\Administrator\Desktop\提权秘籍\提权文档\提权端口方面的开启以及常用的命令\pic\netstat-ano.png)
+ ![alt text](.\pic\netstat-ano.png)
 
 
 
