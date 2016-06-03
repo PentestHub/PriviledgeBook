@@ -47,7 +47,7 @@ query user
 
 
 
- ![alt text](.\pic\queryuser.png)
+ ![](./pic/queryuser.png)
 
 
 
@@ -184,7 +184,7 @@ tasklist /svc
 
 
 
- ![alt text](.\pic\/tasklistsvc.png)
+  ![]((./pic/tasklistsvc.png)
 
 
 
@@ -199,7 +199,7 @@ tcp   PID：640所对应的端口为3389
 ```
 
 
- ![alt text](.\pic\/netstat-ano.png)
+ ![](./pic/netstat-ano.png)
 
 
 
