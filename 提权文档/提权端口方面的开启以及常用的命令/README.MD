@@ -43,10 +43,11 @@ query user
 
 
 
-![queryuser.png](.\\pic\\queryuser.png)
 
 
 
+
+![queryuser.png](C:\Users\Administrator\Desktop\提权秘籍\提权文档\提权端口方面的开启以及常用的命令\pic\queryuser.png)
 
 
 
@@ -181,7 +182,9 @@ tasklist /svc
 
 ```
 
-![tasklistsvc.png](.\pic\tasklistsvc.png)
+
+![tasklistsvc.png](C:\Users\Administrator\Desktop\提权秘籍\提权文档\提权端口方面的开启以及常用的命令\pic\tasklistsvc.png)
+
 
 ```
 
@@ -194,8 +197,10 @@ tcp   PID：640所对应的端口为3389
 ```
 
 
+![netstat-ano.png](C:\Users\Administrator\Desktop\提权秘籍\提权文档\提权端口方面的开启以及常用的命令\pic\netstat-ano.png)
 
-![netstat-ano.png](.\\pic\\netstat-ano.png)
+
+
 
 #####添加用户以及添加到管理员组以及远程桌面组（如果为管理员权限却登录不了远程桌面看这个）
 
