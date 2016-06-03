@@ -90,24 +90,6 @@ net stop sharedaccess   #开启防火墙
 以下不是提权相关的，正常whoami一般服务器都有，如果你是服务器管理员如果没有whoami，那么安装之，或者*如果提权直接丢尽垃圾箱就能执行*
 
 
-whoami的安装
-
-1)下载文件whoami.exe 6.1.7600.16385文件到您的桌面上。
-
-(2)将whoami.exe 6.1.7600.16385文件放到提示丢失的文件的程序目录下。
-
-(3)如果第2步是行不通的。将文件whoami.exe 6.1.7600.16385到系统目录下
-
-C:\Windows\System (Windows 95/98/Me)
-
-C:\WINNT\System32 (Windows NT/2000)
-
-C:\Windows\System32 (Windows XP, Vista)
-
-C:\Windows\System32 (Windows 7/8/2008r2)
-
-C:\Windows\SysWOW64 (Windows 7/8/2008r2)
-
 ```
 
 
