@@ -184,7 +184,7 @@ tasklist /svc
 
 
 
-  ![]((./pic/tasklistsvc.png)
+  ![](./pic/tasklistsvc.png)
 
 
 
